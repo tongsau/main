@@ -1,0 +1,14 @@
+This document contains structural definitions to the U.vrs system.
+
+The U.vrs is limited in calculation size to the primary conscience level of 1x1 of one unit.
+
+One level of consciencousness should not attempt to calculate anything beyond this definition.
+
+The U system analyzes user input and attempts to make a digital consciousness.
+
+U=144,000 pixel universe per second of input.
+
+The Basic unit of measure will be the single pixel salt grain size.
+
+The primary render will be a single layer of those pixels operating as a display view.
+This display view can be modified in Augmented space.
